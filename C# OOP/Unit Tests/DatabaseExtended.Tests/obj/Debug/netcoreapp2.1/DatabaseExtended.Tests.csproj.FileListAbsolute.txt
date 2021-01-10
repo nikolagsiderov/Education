@@ -11,3 +11,6 @@ E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\obj\Debug
 E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.AssemblyInfo.cs
 E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.dll
 E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.pdb
+E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.csproj.CopyComplete
