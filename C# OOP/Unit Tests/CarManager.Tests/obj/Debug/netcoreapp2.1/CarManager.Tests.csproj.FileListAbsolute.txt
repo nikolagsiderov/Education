@@ -11,3 +11,6 @@ E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\obj\Debug\netco
 E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
 E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
 E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb
+E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete
