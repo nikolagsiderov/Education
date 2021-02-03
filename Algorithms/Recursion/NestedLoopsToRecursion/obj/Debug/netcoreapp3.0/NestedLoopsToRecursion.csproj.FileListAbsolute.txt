@@ -1,0 +1,11 @@
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.0\NestedLoopsToRecursion.exe
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.0\NestedLoopsToRecursion.deps.json
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.0\NestedLoopsToRecursion.runtimeconfig.json
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.0\NestedLoopsToRecursion.runtimeconfig.dev.json
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.0\NestedLoopsToRecursion.dll
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\bin\Debug\netcoreapp3.0\NestedLoopsToRecursion.pdb
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.0\NestedLoopsToRecursion.csprojAssemblyReference.cache
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.0\NestedLoopsToRecursion.AssemblyInfoInputs.cache
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.0\NestedLoopsToRecursion.AssemblyInfo.cs
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.0\NestedLoopsToRecursion.dll
+E:\Repositories\self-learning\Algorithms\Recursion\NestedLoopsToRecursion\obj\Debug\netcoreapp3.0\NestedLoopsToRecursion.pdb
