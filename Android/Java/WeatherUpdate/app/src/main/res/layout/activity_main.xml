@@ -68,5 +68,15 @@
             android:onClick="getWeatherDetailsForPlovdiv"
             android:text="Дай резултати за Пловдив"
             app:backgroundTint="@null" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnGet5LastRequests"
+            android:layout_marginBottom="10dp"
+            android:background="#2190c8"
+            android:textColor="@android:color/white"
+            android:onClick="get5LastRequests"
+            android:text="Покажи последни 5 заявки"
+            app:backgroundTint="@null" />
     </LinearLayout>
 </LinearLayout>
