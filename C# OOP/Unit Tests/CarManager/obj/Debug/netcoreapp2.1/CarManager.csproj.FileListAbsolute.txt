@@ -1,8 +1,0 @@
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\obj\Debug\netcoreapp2.1\CarManager.csprojAssemblyReference.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb

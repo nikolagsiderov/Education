@@ -1,8 +1,0 @@
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

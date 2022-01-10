@@ -1,8 +1,0 @@
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

@@ -1,7 +1,0 @@
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\bin\Debug\netcoreapp2.1\Database.deps.json
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\bin\Debug\netcoreapp2.1\Database.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\bin\Debug\netcoreapp2.1\Database.pdb
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\obj\Debug\netcoreapp2.1\Database.dll
-E:\Repositories\self-learning\C# OOP\Unit Tests\Database\obj\Debug\netcoreapp2.1\Database.pdb
